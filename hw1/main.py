@@ -4,7 +4,7 @@ import argparse
 import time
 
 def measure_insert_time(n: int) -> float:
-    """Insert n sequential keys into a dict and return elapsed seconds."""
+ 
     payload = {}
     start = time.perf_counter()
     for i in range(n):
