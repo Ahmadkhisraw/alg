@@ -1,0 +1,10 @@
+*.tex
+*.md
+*.pdf
+*.aux
+*.log
+*.out
+*.exe
+*.snm
+*.toc
+*.vrb
